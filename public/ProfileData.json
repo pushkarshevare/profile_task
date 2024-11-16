@@ -1,0 +1,147 @@
+[
+    {
+      "id": 1,
+      "name": "Pushkaraj Shevare",
+      "photo": "./ProfileImages/pf1.jpg",
+      "description": "Software Developer",
+      "address": {
+        "city": "Old Sangvi,Pune",
+        "latitude": 18.573478,
+        "longitude": 73.820380 
+      },
+      "contactInfo": "pushkarajshevare@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Rohan Choudhari",
+      "photo": "./ProfileImages/pf2.jpg",
+      "description": "Video Editor",
+      "address": {
+        "city": "Wakad,Pune",
+        "latitude": 18.601579,
+        "longitude": 73.764831
+      },
+      "contactInfo": "rohanchoudhari@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "kunal Salukhe",
+      "photo": "./ProfileImages/pf3.jpg",
+      "description": "Java Developer",
+      "address": {
+        "city": "Vishal Nagar,Pune",
+        "latitude": 18.584868,
+        "longitude":73.782667
+      },
+      "contactInfo": "kunalsalukhe@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Rahul Sarag",
+      "photo": "./ProfileImages/pf1.jpg",
+      "description": "Motion Graphic Designer",
+     "address": {
+        "city": "Aundh,Pune",
+        "latitude": 18.561273,
+        "longitude": 73.810237 
+      },
+      "contactInfo": "rahulsarag@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Mahesh Bidgar",
+      "photo": "./ProfileImages/pf2.jpg",
+      "description": "Paint Artist",
+      "address": {
+        "city": "Baner,Pune",
+        "latitude": 18.563633,
+        "longitude": 73.776483 
+      },
+      "contactInfo": "maheshbidgar@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Shubham Shinde",
+      "photo": "./ProfileImages/pf3.jpg",
+      "description": "Buisness",
+      "address": {
+        "city": "Pimple Gurav,Pune",
+        "latitude": 18.587291,
+        "longitude": 73.821386 
+      },
+      "contactInfo": "shubhamshinde@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Aman Bendakule",
+      "photo": "./ProfileImages/pf1.jpg",
+      "description": "Software Developer",
+      "address": {
+        "city": "Pimpri",
+        "latitude": 18.612804,
+        "longitude": 73.802533 
+      },
+      "contactInfo": "amanbendakule@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Suraj Patil",
+      "photo": "./ProfileImages/pf2.jpg",
+      "description": "Videography",
+      "address": {
+        "street": "Kasarwadi,Pune",
+        "latitude": 18.599952,
+        "longitude": 73.823833
+      },
+      "contactInfo": "surajpatil@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Harshad Mahajan",
+      "photo": "./ProfileImages/pf3.jpg",
+      "description": "Buisness",
+      "address": {
+        "city": "Bhosari,Pune",
+        "latitude": 18.619474,
+        "longitude": 73.851146 
+      },
+      "contactInfo": "harshadmahajan@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Dhananjay Sonawane",
+      "photo": "./ProfileImages/pf1.jpg",
+      "description": "Trader",
+      "address": {
+        "city": "Khadki,Pune",
+        "latitude": 18.567735,
+        "longitude": 73.851317 
+      },
+      "contactInfo": "dhananjaysonawane@gmail.com"
+    },
+    {
+      "id": 11,
+      "name": "Ansh Borse",
+      "photo": "./ProfileImages/pf2.jpg",
+      "description": "Sport Person",
+      "address": {
+        "city": "Deccan Gymkhana,Pune",
+        "latitude": 18.515004,
+        "longitude": 73.841870 
+      },
+      "contactInfo": "anshborse@gmail.com"
+    },
+    {
+      "id": 12,
+      "name": "Pavan Raut",
+      "photo": "./ProfileImages/pf3.jpg",
+      "description": "Farmer",
+      "address": {
+        "city": "Swargate,Pune",
+        "latitude": 18.499865,
+        "longitude": 73.858876 
+      },
+      "contactInfo": "pavanraut@gmail.com"
+    }
+  ]
+  

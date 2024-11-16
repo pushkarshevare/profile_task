@@ -1,0 +1,119 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .listHeader {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .listHeader h2 {
+    font-weight: 800;
+    font-size: 35px;
+    color: #333;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  .searchInput{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  .searchInput input{
+    padding: 5px;
+    border-radius: 5px;
+  }
+  .profileList {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
+    gap: 20px;
+    padding: 2rem;
+    margin: 1rem auto;
+    max-width: 1200px; 
+  }
+  
+  .profileData {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background-color: #fff;
+  }
+
+  
+  .profileData img {
+    width: 50%;
+    height: 100%;
+    margin-bottom: 15px;
+    object-fit: cover; 
+  }
+  
+  .profileData h3,
+  .profileData h4 {
+    margin: 10px 0;
+    font-weight: 500;
+    color: #555;
+  }
+  
+  .profileData button {
+    background-color: #e8f7ff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 20px;
+    font-weight: 500;
+    color: #333;
+    cursor: pointer;
+    /* transition: background-color 0.3s ease, transform 0.2s ease;  */
+  }
+  
+  .profileData button:hover {
+    background-color: #87d8d8;
+    transform: scale(1.05); 
+  }
+  
+  @media (max-width: 768px) {
+    .profileList {
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Smaller grid for mobile */
+      gap: 15px;
+    }
+  
+    .profileData {
+      padding: 15px;
+    }
+  
+    .profileData img {
+      width: 80px;
+      height: 80px;
+    }
+  
+    .listHeader h2 {
+      font-size: 28px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .listHeader h2 {
+      font-size: 24px;
+    }
+  
+    .profileData h3,
+    .profileData h4 {
+      font-size: 14px;
+    }
+  
+    .profileData button {
+      font-size: 14px;
+      padding: 8px 12px;
+    }
+  }
+  
